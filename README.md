@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing, data science, ai and new tek 
 - 🌱 I’m currently learning  full stack
 - 💞️ I’m looking to collaborate on web, mobile development
-- 📫 How to reach me centdxv@gmail.com
+- 📫 How to reach me 📨 centdxv@gmail.com
 
 <!---
 cent-dxv/cent-dxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
